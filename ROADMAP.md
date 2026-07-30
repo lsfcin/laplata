@@ -1,5 +1,5 @@
 # laplata — Roadmap
-> Pending work only. Completed milestones move to HISTORY.md.
+> Pending work only — a finished item is cut, not ticked; done work is deleted and git is the history.
 
 ## Status
 

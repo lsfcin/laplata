@@ -9,8 +9,8 @@ Embrião (2026-07-07, sessão Fable). Nada implementado. Goal: `brain/goals/star
 <!-- routing:start -->
 ## Routing
 
-| File | Interface | API | Description |
-|------|-----------|-----|-------------|
-| [`README.md`](README.md) | — | — | laplata |
-| [`ROADMAP.md`](ROADMAP.md) | — | — | laplata — Roadmap |
+| File | Description |
+|------|-------------|
+| [`README.md`](README.md) | laplata |
+| [`ROADMAP.md`](ROADMAP.md) | laplata — Roadmap |
 <!-- routing:end -->

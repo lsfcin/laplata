@@ -161,7 +161,7 @@ Clean.
 
 *two machines share this workspace — push it, or give the repo a remote to push to: code/SPECS-git.md § Push policy*
 
-- code/laplata — main is 20 ahead of origin/main
+- code/laplata — main is 21 ahead of origin/main
 
 ### Local branches already merged into their base
 
